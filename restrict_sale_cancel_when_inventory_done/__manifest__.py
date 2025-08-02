@@ -18,7 +18,7 @@
     'version': '15.0.1',
 
     'depends': ['base', 'sale', 'stock'],
-    'images': ['static/description/icon.jpg'],
+    'images': ['static/description/icon.png'],
     'license': 'LGPL-3',
     'installable': True,
     'application': False,
