@@ -12,13 +12,14 @@
     """,
 
     'author': "Salai Thomas",
-    'website': "https://github.com/Salai-Thomas",
+    'website': "https://www.linkedin.com/in/salai-thomas-6a7201267",
 
     'category': 'Sales',
     'version': '15.0.1',
 
     'depends': ['base', 'sale', 'stock'],
-
+    'images': ['static/description/icon.jpg'],
+    'license': 'LGPL-3',
     'installable': True,
     'application': False,
     'auto_install': False,
