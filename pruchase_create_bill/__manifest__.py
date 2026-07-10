@@ -14,7 +14,7 @@
     'category': 'Purchases',
     'version': '19.0.1.0.0',
 
-    'depends': ['purchase'],
+    'depends': ['account','purchase'],
 
     'data': [
         'views/purchase_order_form_view_inherit.xml'
